@@ -1,0 +1,4 @@
+com\jpa\entity\Book.class
+com\jpa\lk.class
+com\jpa\repository\BookJPARepo.class
+com\jpa\controller\BookController.class
